@@ -7,8 +7,6 @@ def yazdir():
     print("************************")
 
 
-
-
 #ana program
 yazdir()
 yazdir()
